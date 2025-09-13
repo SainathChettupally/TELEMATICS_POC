@@ -105,7 +105,7 @@ My solution successfully implements the following key features, directly address
 
 ## Dashboard Overview
 
-![Dashboard Screenshot](docs/dashboard.png)
+![Dashboard Screenshot](docs/images/dashboard.png)
 
 ## Notes on Models, Data, and External Services
 
