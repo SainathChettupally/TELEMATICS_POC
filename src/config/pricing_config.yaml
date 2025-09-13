@@ -1,0 +1,4 @@
+pricing:
+  alpha: 1.0
+  min_cap: 80.0
+  max_cap: 500.0

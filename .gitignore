@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+.venv/
+
+# Data
+data/
+*.parquet
+
+# IDE
+.vscode/
+.idea/
+
+# Other
+*.pkl

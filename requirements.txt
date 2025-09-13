@@ -1,0 +1,15 @@
+fastapi
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+joblib
+uvicorn[standard]
+python-dotenv
+shap
+pyyaml
+matplotlib
+pytest
+plotly

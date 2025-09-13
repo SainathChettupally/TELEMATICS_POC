@@ -1,0 +1,17 @@
+# Configuration for feature engineering
+
+# Define the time window for aggregating features
+WINDOW_DAYS: 30
+
+# List of features to compute
+FEATURES:
+  - miles_driven
+  - night_driving_percentage
+  - urban_driving_percentage
+  - mean_speed
+  - p50_speed
+  - p95_speed
+  - harsh_brakes_per_100mi
+  - rapid_accelerations_per_100mi
+  - speeding_percentage
+  - stop_go_events
