@@ -5,7 +5,7 @@
 This submission presents a comprehensive Proof of Concept (POC) for a Usage-Based Insurance (UBI) platform, leveraging telematics data to demonstrate an end-to-end solution. MY goal was to design and develop a system that accurately captures driving behavior and vehicle usage data, integrating this data into a dynamic insurance pricing model. I aimed to improve premium accuracy, encourage safer driving, enhance customer transparency, and ensure compliance with data security and privacy regulations.
 
 ## Public Repository
-[Link to my public GitHub repository or similar]
+https://github.com/SainathChettupally/TELEMATICS_POC.git
 
 ## Setup and Installation
 Setting up and running this project locally is straightforward. The steps are as follows:
