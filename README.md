@@ -103,6 +103,10 @@ My solution successfully implements the following key features, directly address
 -   **Secure APIs:** I built FastAPI endpoints (`src/api/app.py`, `src/api/routes.py`) for `POST /score` (returning score and top-k feature reasons) and `POST /price` (returning premium, band, and deltas), secured with Bearer token authentication (`src/api/dependencies.py`).
 -   **User Dashboard:** My Streamlit application (`src/dashboard/app.py`) provides an intuitive user interface displaying key performance indicators (KPIs), the latest score and premium, trend analysis, "why it changed" explanations (based on top features from SHAP), and a premium what-if slider. It also includes gamification elements like badges.
 
+## Dashboard Overview
+
+![Dashboard Screenshot](docs/dashboard.png)
+
 ## Notes on Models, Data, and External Services
 
 -   **Models:** My risk scoring model is an XGBoost Classifier, trained on engineered telematics features and calibrated using Isotonic Regression. The trained model, calibrator, and SHAP explainer are persisted in the `/models` directory.
