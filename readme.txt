@@ -3,7 +3,7 @@ Telematics UBI POC - readme.txt
 PROJECT OVERVIEW
 This project is a Proof of Concept (POC) for a Usage-Based Insurance (UBI) platform using telematics data. It simulates driver data, scores driver risk using a GBDT model, and provides a dashboard to visualize the results.
 
-Repository Link: https://github.com/SainathChettupally/Telematics-POC.git
+Repository Link: https://github.com/SainathChettupally/TELEMATICS_POC.git
 
 SETUP
 
